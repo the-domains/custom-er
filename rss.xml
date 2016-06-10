@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Putting the Custom in Customer]]></title>
         <description><![CDATA[Putting the Custom in Customer]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/custom-er/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 27 May 2016 19:18:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 10 Jun 2016 16:42:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/custom-er/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Custom Watches</p>]]></description>
-            <link>undefinedcustom-watches/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/737f2f11-27e1-4438-933c-4f80ad8c8ae0.jpg">]]></description>
+            <link>https://thegrid.ai/custom-er/custom-watches/index.html</link>
             <guid isPermaLink="false">347a144f-9a55-4ebb-b801-e23c7d698511</guid>
-            <pubDate>Fri, 27 May 2016 19:18:31 GMT</pubDate>
+            <pubDate>Fri, 10 Jun 2016 16:42:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
